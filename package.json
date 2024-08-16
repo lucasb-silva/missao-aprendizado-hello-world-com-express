@@ -1,0 +1,12 @@
+{
+  "name": "missao-aprendizado-hello-world-com-express",
+  "version": "1.0.0",
+  "description": "Projeto da missão de aprendizado Hello World com ExpressJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
